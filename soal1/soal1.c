@@ -69,9 +69,9 @@ regcomp(&banding,".sh",0);//menyimpan path kedalam variabel banding
     exit(EXIT_FAILURE);
   }
 
-//  close(STDIN_FILENO);
-//  close(STDOUT_FILENO);
-//  close(STDERR_FILENO);
+ close(STDIN_FILENO);
+ close(STDOUT_FILENO);
+ close(STDERR_FILENO);
 // if(argu[1]>=0 && argu
   if(flag==0) printf("error");
   // int C=1;
