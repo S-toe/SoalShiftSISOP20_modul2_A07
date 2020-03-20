@@ -230,6 +230,7 @@ didalam looping atau saat daemon berjalan, proses akan mengecek kembali argumen 
 
 Berikut gambar ketika programnya dijalankan:
 
+![M2SOAL1](https://user-images.githubusercontent.com/58405725/77202530-1ba34880-6b21-11ea-9019-7b66ed590cd3.png)
 
 ## 2. Soal 2
 
@@ -433,7 +434,9 @@ Untuk membuat script killernya, saya membuat ketika argument yang diberikan diin
 
 Berikut gambar ketika program dijalankan:
 
-
+![M2soal2a](https://user-images.githubusercontent.com/58405725/77202615-42fa1580-6b21-11ea-88d6-ff14509d2e4d.png)
+![M2soal2b](https://user-images.githubusercontent.com/58405725/77202627-468d9c80-6b21-11ea-80c8-17b91159bc77.png)
+![M2soal2c](https://user-images.githubusercontent.com/58405725/77202631-48576000-6b21-11ea-93c2-a34def06d94a.png)
 
 ## 3. Soal 3
 
@@ -551,3 +554,9 @@ Setelah proses unzip selesai, saya membuat 2 anak proses lain yang akan mencari 
 Setelah pemisahan selesai saya proses terakhir yang sedang berjalan membuat anak baru yang akan membuat file txt pertama dan proses yang berjalan terakhir akan membuat file txt yang kedua.
 
 Berikut gambar saat proses dijalankan :
+
+![M2soal3a](https://user-images.githubusercontent.com/58405725/77202671-5c02c680-6b21-11ea-8df6-6b2b0eaa00c8.png)
+![M2soal3b](https://user-images.githubusercontent.com/58405725/77202674-5d33f380-6b21-11ea-8b3d-2c3a87386873.png)
+![M2soal3c](https://user-images.githubusercontent.com/58405725/77202676-5e652080-6b21-11ea-9727-62ff253b1573.png)
+![M2soal3d](https://user-images.githubusercontent.com/58405725/77202678-5f964d80-6b21-11ea-8fe1-495095abeee7.png)
+![M2soal3ae](https://user-images.githubusercontent.com/58405725/77202683-60c77a80-6b21-11ea-8ddd-953a67776e97.png)
