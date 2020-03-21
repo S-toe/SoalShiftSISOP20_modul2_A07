@@ -94,9 +94,9 @@ int main(int argc, char* argv[]) {
       }
       while ((wait(&status)) > 0);
     printf("anak3\n");
-      for(i=0 ; i<=3 ; i++){
+      for(i=0 ; i<=20 ; i++){
         // dirname2=dirname;
-        if(i==3){
+        if(i==20){
           int tunggu;
           if(fork()==0){
           pathname[strlen(pathname)-1]=0;
